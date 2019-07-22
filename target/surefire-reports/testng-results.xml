@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="53727" started-at="2019-07-17T03:45:39Z" finished-at="2019-07-17T03:46:33Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="53727" started-at="2019-07-17T03:45:39Z" finished-at="2019-07-17T03:46:33Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="9937" started-at="2019-07-17T03:45:39Z" finished-at="2019-07-17T03:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="verifyLoginPageTitleTest" duration-ms="7" started-at="2019-07-17T03:45:49Z" finished-at="2019-07-17T03:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="122" started-at="2019-07-17T03:45:49Z" finished-at="2019-07-17T03:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="9473" started-at="2019-07-17T03:45:49Z" finished-at="2019-07-17T03:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignUpLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="verifySignUpLinkTest" duration-ms="54" started-at="2019-07-17T03:45:59Z" finished-at="2019-07-17T03:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="182" started-at="2019-07-17T03:45:59Z" finished-at="2019-07-17T03:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="8961" started-at="2019-07-17T03:45:59Z" finished-at="2019-07-17T03:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestWithCorrectCredentialsTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="loginTestWithCorrectCredentialsTest" duration-ms="7478" started-at="2019-07-17T03:46:08Z" finished-at="2019-07-17T03:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestWithCorrectCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="344" started-at="2019-07-17T03:46:15Z" finished-at="2019-07-17T03:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="9553" started-at="2019-07-17T03:46:16Z" finished-at="2019-07-17T03:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestWithInCorrectCredentialsTest()[pri:4, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="loginTestWithInCorrectCredentialsTest" duration-ms="7392" started-at="2019-07-17T03:46:25Z" finished-at="2019-07-17T03:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestWithInCorrectCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="195" started-at="2019-07-17T03:46:33Z" finished-at="2019-07-17T03:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
