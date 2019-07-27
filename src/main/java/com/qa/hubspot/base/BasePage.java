@@ -45,7 +45,7 @@ public class BasePage {
 			//driver = new ChromeDriver();
 			ChromeOptions co = new ChromeOptions();
 			co.addArguments("--headless");
-			tldriver.set(new ChromeDriver());
+			tldriver.set(new ChromeDriver(co));
 			
 			
 		} else if (browserName.equals("firefox")) {

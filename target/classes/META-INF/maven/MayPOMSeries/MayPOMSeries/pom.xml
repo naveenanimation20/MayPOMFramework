@@ -34,7 +34,7 @@
 					<useSystemClassLoader>false</useSystemClassLoader>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/testrunners/testng_regression.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/testrunners/testng_sanity.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
