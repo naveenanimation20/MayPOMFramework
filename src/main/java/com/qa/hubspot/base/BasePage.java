@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.qa.hubspot.util.TimeUtil;
@@ -42,6 +43,8 @@ public class BasePage {
 		if (browserName.equals("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			//driver = new ChromeDriver();
+			ChromeOptions co = new ChromeOptions();
+			co.addArguments("--headless");
 			tldriver.set(new ChromeDriver());
 			
 			
