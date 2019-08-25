@@ -1,0 +1,6 @@
+projectKey=MayPOMSeries:MayPOMSeries
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/MayPOMSeries:MayPOMSeries
+ceTaskId=AWy_s8P_hYKXmW7aoVov
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWy_s8P_hYKXmW7aoVov

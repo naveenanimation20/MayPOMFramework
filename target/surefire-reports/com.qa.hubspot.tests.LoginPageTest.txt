@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.qa.hubspot.tests.LoginPageTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.967 sec - in com.qa.hubspot.tests.LoginPageTest
